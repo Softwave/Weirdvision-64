@@ -25,3 +25,8 @@ The graphics were made with [CharPad C64](https://subchristsoftware.itch.io/char
 
 
 A note: the code isn't exactly *good*. It's quite a beginner's effort! But I'm proud of it, still. 
+
+
+## License 
+
+The code is released under the [MIT license](https://github.com/Softwave/Weirdvision-64/blob/main/LICENSE). 
