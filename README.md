@@ -16,3 +16,12 @@ You play as a "squiddle", or, an "Oiquean", a small, squid-like creature that li
 The thing about squiddles is, is that they LOVES moos (cows). They have very little interest in humans, but they love their dear friends, the moos. They want to bring them to their homeworld, to love and cherish them and treat them with utter sweetness. 
 
 But the trouble is that the bothersome brain monkeys resist with all intensity. They want to stop you, or at least keep you from making friends with sufficient moos! 
+
+## Assembling 
+
+The game was made with the use of the [KickAssembler](https://theweb.dk/KickAssembler/Main.html#frontpage), using Emacs ([my config](https://github.com/Softwave/Doom-Emacs-Config)) and the [kickasm-mode](https://github.com/mweidhagen/kickasm-mode) by mweidhagen. 
+
+The graphics were made with [CharPad C64](https://subchristsoftware.itch.io/charpad-c64-free) inside Wine. 
+
+
+A note: the code isn't exactly *good*. It's quite a beginner's effort! But I'm proud of it, still. 
