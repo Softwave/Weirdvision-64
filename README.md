@@ -30,3 +30,6 @@ A note: the code isn't exactly *good*. It's quite a beginner's effort! But I'm p
 ## License 
 
 The code is released under the [MIT license](https://github.com/Softwave/Weirdvision-64/blob/main/LICENSE). 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W8SV2A)
+
